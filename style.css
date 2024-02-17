@@ -40,3 +40,11 @@ button[type="submit"] {
 button[type="submit"]:hover {
     background-color: #3e8e41;
 }
+
+
+#message {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
